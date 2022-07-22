@@ -9,7 +9,7 @@
 ## Backend
 
 - Java
-- Spring Boot , Spring MVC
+- Spring, Spring Boot , Spring MVC
 - JPA, Querydsl
 - Junit5, Junit4
 
