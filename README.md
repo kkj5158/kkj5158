@@ -1,3 +1,4 @@
+<div class="main">
 
 😀우리는 그곳에서 괴로울 거야 , 하지만 그보다 많이 행복할거야 . 
 ### ⛏️ Skills
@@ -27,3 +28,4 @@
 - IntelliJ, VS Code, Vim
 - Git, Sourcetree
 
+</div>
