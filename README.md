@@ -10,17 +10,18 @@
 
 - Java
 - Spring, Spring Boot , Spring MVC
-- JPA, Querydsl
+- MyBatis, JPA, Querydsl
 - Junit5, Junit4
 
 ## DevOps
 
-- MySQL, MariaDB
+- MySQL, MariaDB, PostgreSQL
 
 ## Frontend
 
 - HTML5, CSS3(SCSS), JS(ES6)
-- BootStrap, Jquery
+- BootStrap, Jquery, JSTL
+
 
 ## Collaboration & Tools
 
