@@ -2,7 +2,7 @@
 ## Backend
 - Java
 - Spring, Spring Boot , Spring MVC
-- MyBatis, JPA, Querydsl
+- MyBatis, Spring DATA JPA, Querydsl
 - Junit5, Junit4
 
 ## DevOps
