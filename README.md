@@ -10,7 +10,7 @@
 
 ## Frontend
 - HTML5, CSS3(SCSS), JS(ES6)
-- BootStrap, Jquery, JSTL
+- BootStrap, Thymeleaf
 
 ## Collaboration & Tools
 - Notion
