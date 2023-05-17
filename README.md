@@ -6,7 +6,7 @@
 - Junit5, Junit4
 
 ## DevOps
-- MySQL, MariaDB, PostgreSQL
+- MySQL, PostgreSQL
 
 ## Frontend
 - HTML5, CSS3(SCSS), JS(ES6)
