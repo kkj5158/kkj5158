@@ -3,7 +3,6 @@
 - Java
 - Spring, Spring Boot , Spring MVC, Spring Security
 - MyBatis, Spring DATA JPA, Querydsl
-- Junit5, Junit4
 
 ## DevOps
 - MySQL, PostgreSQL
