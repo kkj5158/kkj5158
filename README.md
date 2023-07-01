@@ -5,7 +5,7 @@
 - MyBatis, Spring DATA JPA, Querydsl
 
 ## DevOps
-- MySQL, PostgreSQL
+- MySQL
 - Github action
 ## Frontend
 - HTML5, CSS3(SCSS), JS(ES6)
