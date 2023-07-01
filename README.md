@@ -15,4 +15,4 @@
 - Notion
 - Jira
 - IntelliJ, VS Code, Vim
-- Git, Sourcetree
+- Git
