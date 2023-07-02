@@ -7,6 +7,7 @@
 ## DevOps
 - MySQL
 - Github action
+- Docker
 ## Frontend
 - HTML5, CSS3(SCSS), JS(ES6)
 - BootStrap, Thymeleaf
